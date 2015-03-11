@@ -1,0 +1,19 @@
+{
+  "name": "tsc",
+  "version": "0.0.1",
+  "description": "The Selfish Code",
+  "main": "tsc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ljbum/tsc"
+  },
+  "author": "JB Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljbum/tsc/issues"
+  },
+  "homepage": "https://github.com/ljbum/tsc"
+}
